@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola!👋, Soy Maritza Velasco Esteban</h1>
 <h3 align="center">Técnica en sistemas y apasionada por la programación, con experiencia práctica en proyectos de desarrollo web, estoy constantemente aprendiendo y explorando nuevas tecnologías para seguir evolucionando en mi carrera profesional.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
